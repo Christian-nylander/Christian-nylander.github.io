@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-## Scaffold
+## Scaffoldddd
 > This project was scaffolded by React CLI [(create-react-app)](https://github.com/facebookincubator/create-react-app)
  We chose to use the React CLI because of its agility and logistics. A big advantage is that at the smallest change in  the code, the website updates in real time so you do not need to refresh the website continuously.
 
