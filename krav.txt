@@ -1,0 +1,44 @@
+Mål
+Genomföra de sex faserna vi diskuterat i kursen kan ingå i en arbetsprocess: scaffold, develop, test, integrate, optimize, och deploy = KLART
+
+Bygg en enkel responsiv webb som hämtar någon information från Firebase eller ett öppet API = KLART
+
+Publicera sidan på GitHub Pages = EJ KLART
+
+Se till att din webbsida länkar till din readme = EJ KLAR
+
+Länka din readme till din webbsida = EJ KLART
+
+Använd en task runner för att automatisera delar av arbetsprocessen. Minst två tasks = TVEKSAM
+
+Använd en CSS-preprocessor och använd variabler, nesting, mixins och inheritance = EJ KLART
+
+Arbeta i grupp med git genom hela projektet = KLART
+
+För Godkänt
+
+Veckosamtal = KLART
+
+Varje vecka under projektet ska du boka in ett samtal med Niklas för att visa vad du producerat senaste veckan. Du ska kunna berätta om din kod och förklara vad den gör. Detta bör ske under tisdag. Du dokumenterar vad vi pratar om på detta mötet och implementerar i ditt projekt sådant vi pratar om.
+Kod = HAR PRATAT MED NIKLAS
+
+din kod är väl strukturerad, indenterad och kommenterad = NÄSTAN KLART
+
+ditt projekt har inga buggar = KLART
+
+ditt projekt uppfyller målet med slutprojektet = EJ KLART
+
+Lägg upp din kod på GitHub och skriv en tydlig snygg readme där det framkommer = NÄSTAN KLART
+
+ditt namn, kurs och utbildning = EJ KLART
+
+länk till din LinkedIn-profil = EJ KLART
+
+namn och LI-länk till opponent = EJ KLART
+
+kort beskrivning av produkten, dess syfte och funktionalitet = KLART
+
+punktlista med vilka teknologier och komponenter du använt (länka gärna till dokumentationen!) give back to the next generation! har du använt ngn tutorial? särskild tjänst? länka! förklara!
+kort men tydligt hur man tar ner, installerar och kör ditt projekt (om det är ngt särskilt som behövs) = KLART
+
+kortfattat din arbetsprocess (mobile first eller ngt annat) och resonera om vad du gjort bra och vad som kan förbättras. Ngt du fastnade på? = EJ KLART
