@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import ImgList from './Components/ImgList';
-import $ from "jquery";
+import $ from 'jquery';
 
 
 export default class App extends Component {
@@ -19,7 +19,7 @@ handleChange(event) {
 	 this.setState({value: event.target.value});
 }
 
- handleSubmit(event) {
+handleSubmit(event) {
 	 $("#notFound").css('visibility', 'hidden');
 	 fetch('https://pixabay.com/api/?key=4521698-0a0bb4f2bcb4188eb3a7646d7&q=' + this.state.value + '&image_type=photo&pretty=true')
  		.then(res => res.json())

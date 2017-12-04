@@ -10,7 +10,7 @@
   },
   "scripts": {
     "homepage": "https://Christian-nylander.github.io/christian-nylander.github.io",
-    "deploy" : "npm run build&&gh-pages -d build",
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -22,7 +22,9 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-react-optimize": "^1.0.1",
     "gh-pages": "^1.1.0",
+    "gulp": "^3.9.1",
     "jest": "^21.2.1",
+    "react-component-gulp-tasks": "^0.7.7",
     "react-test-renderer": "^16.1.1"
   }
 }
