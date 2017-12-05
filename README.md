@@ -23,7 +23,7 @@ npm start
 The API call was made with react's fetch, which is the most convenient way to do it according to us, no installation needed as with axios.  
 
 ## Tasks
-> The tasks was made with Gulp. There are 6 tasks, two for cleaning the project from unnecessary html and JavaScript files, one for copying the html files from the source code folder to the app folder that will be the one in production. There are also two tasks for the css/scss. One that autoprefixes the css and one that converts the css to scss to the app folder.
+> The tasks was made with Gulp. There are 6 tasks, two for cleaning the project from unnecessary html and JavaScript files, one for copying the html files from the source code folder to the app folder that will be the one in production. There are also two tasks for the css/scss. One that autoprefixes the css and one that converts the css to scss to the app folder. And finally the default that does every task.
 
 ## Test
 > The tests are done with Jest, a testing framework maintained by Facebook.
