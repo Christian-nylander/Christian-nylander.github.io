@@ -33,7 +33,7 @@ npm test
 > The console should show that the tests succeeded.
 
 ## Integrate
-> Fyll i om integrering
+> N/A
 
 ## Optimize
 > [Webpack](https://github.com/webpack/webpack) is a build tool that bundles all of your assets, including Javascript, images, fonts, and CSS. Webpack was included when we where scaffolding our react application. This makes it easier to manage "modules" which can be used for minifying, testing and more... <i>Note that Webpack is not a task runner but can solve the same problems as as Gulp and Grunt solves. </i>
